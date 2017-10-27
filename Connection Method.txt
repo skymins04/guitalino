@@ -1,0 +1,7 @@
+D4 - TRIG(ultraSonic)
+D5 - ECHO(ultraSonic)
+D6 - AUX Connecter(or Buzzer)
+
+A0 - JOYSTICK Y
+A1 - VIBRATO VOLUME
+A2 - ECHOTIME VOLUME
