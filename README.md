@@ -1,2 +1,2 @@
 # guitalino
-ultra-sonic guital
+초음파센서와 자이로센서를 이용한 아두이노 
